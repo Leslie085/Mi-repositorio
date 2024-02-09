@@ -12,6 +12,3 @@ Software de aplicación (aplicaciones o apps) para ayudar a los usuarios a reali
 
 Un posible cuarto tipo es el software integrado. El software de sistemas integrado se utiliza para controlar máquinas y dispositivos que normalmente no se consideran computadoras, como redes de telecomunicaciones, automóviles, robots industriales y más. Estos dispositivos, y su software, se pueden conectar como parte del Internet de las Cosas (IoT).2
 
-El desarrollo de software lo llevan a cabo principalmente programadores, ingenieros de software y desarrolladores de software. Estos roles interactúan y se superponen, y la dinámica entre ellos varía mucho entre los departamentos y comunidades de desarrollo.
-
-Los programadores, o codificadores, escriben el código fuente para programar computadoras para realizar tareas específicas como fusionar bases de datos, procesar pedidos en línea, enrutar comunicaciones, realizar búsquedas o mostrar texto y gráficos. Los programadores suelen interpretar las instrucciones de los desarrolladores e ingenieros de software y utilizan lenguajes de programación como C++ o Java para llevarlas a cabo.
