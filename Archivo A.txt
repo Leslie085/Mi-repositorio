@@ -10,5 +10,4 @@ Software de programación para brindar a los programadores herramientas como edi
 
 Software de aplicación (aplicaciones o apps) para ayudar a los usuarios a realizar tareas. Las suites de productividad de Office, el software de gestión de datos, los reproductores multimedia y los programas de seguridad son algunos ejemplos. Aplicaciones también se refiere a aplicaciones web y móviles como las que se utilizan para comprar en Amazon.com, socializar en Facebook o publicar imágenes en Instagram.1
 
-Un posible cuarto tipo es el software integrado. El software de sistemas integrado se utiliza para controlar máquinas y dispositivos que normalmente no se consideran computadoras, como redes de telecomunicaciones, automóviles, robots industriales y más. Estos dispositivos, y su software, se pueden conectar como parte del Internet de las Cosas (IoT).2
 
